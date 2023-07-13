@@ -1,3 +1,5 @@
-numpy==1.24.3
-pandas==1.3.2
-python-decouple==3.7
+flask
+sqlite3
+passlib
+secrets
+re
