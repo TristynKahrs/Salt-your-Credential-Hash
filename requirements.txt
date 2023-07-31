@@ -1,5 +1,2 @@
 flask
-sqlite3
 passlib
-secrets
-re
